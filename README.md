@@ -3,8 +3,10 @@
 
 <hr>
 
+## The APP
 ![js_1](https://user-images.githubusercontent.com/6051686/192815609-e08dbb83-1537-46eb-8d11-ec203dff79c5.jpg)
 
+## Data Visualisation
 ![js_2](https://user-images.githubusercontent.com/6051686/192818041-b33c56a9-60c3-424b-8def-b81f1e8d9eef.jpg)
 
 
