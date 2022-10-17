@@ -1,6 +1,11 @@
 # 2nd CodeClan Project.
 ## JavaScript group project (4 persons).
 
+## Summary
+Planetary data from external APIs is consumed using React on the front-end and Express/MongoDB on the back-end.   This project made use of React Hooks, Styled Components and custom CSS including animations.  External data was used to generate quizzes, fun facts to visualise data.   An internal API connected the front-end to the back-end to persist users quiz results and favorite planets.  Data visualisation was achieved using charting libraries.
+
+Experience was gained working as part of a cohesive and energetic team working remotely using Trello,  GitHub and VSCode Live Share.   The team worked using AGILE principles.  The instructors acted as product owners and we held daily stand-ups to allocate work and assess progress.
+
 <hr>
 
 ## The APP
