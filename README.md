@@ -18,7 +18,7 @@ Experience was gained working as part of a cohesive and energetic team working r
 
 <hr>
 
-## The Brief
+## The Brief (CodeClan)
 
 <blockquote>
 # Educational App
