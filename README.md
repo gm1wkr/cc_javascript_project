@@ -1,5 +1,5 @@
 # 2nd CodeClan Project.
-## JavaScript 6 day group project (4 persons).
+## JavaScript group project (4 persons).
 
 <hr>
 
